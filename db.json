@@ -1,0 +1,124 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Remote Rust Developer",
+      "role": "Rust Developer",
+      "company": "Fluence Tech",
+      "means_of_application": "Send Cv to email fluencetech@mailinator.com",
+      "description": [
+        "3+ years in a software engineer role",
+        "Experience with highly asynchronous systems",
+        "Experience with debugging distributed systems",
+        "Excellent coding skills",
+        "Ability to learn new technologies and languages fast",
+        "Ability to go from design to implementation fast",
+        "Experience with Rust or alternatively but less preferred C++"
+      ],
+      "location": "Remote",
+      "slug": "remote-rust-developer",
+      "date_created": "12-09-2022",
+      "expiry_date": "2023-02-20"
+    },
+    {
+      "id": 2,
+      "title": "Software Engineer",
+      "role": "Blockchain Developer",
+      "company": "Offchasin Labs",
+      "means_of_application": "Send Cv to email kerastos@mailinator.com",
+      "description": [
+        "Excited to learn and develop blockchain technology",
+        "Possess production experience with a compiled language (C++, Go, or Rust)",
+        "Experienced with compiler construction and architecture, and security engineering on large-scale systems is a plus"
+      ],
+      "location": "Estonia",
+      "slug": "onsite-software-engineer",
+      "date_created": "12-09-2022",
+      "expiry_date": "2023-01-30"
+    },
+    {
+      "title": "Senior Ethical Hacker",
+      "role": "Ethical Hacker",
+      "company": "Theranos",
+      "means_of_application": "Send Cv to email theranos@mailinator.com",
+      "description": [
+        "Bachelor or advanced student of Computer Science, Computer Engineering or related",
+        "Strong experience with 6+ years as a Software Engineer in high performing teams",
+        "Knowledge about software architecture principles, design patterns, performance, and software engineering best practices",
+        "Expertise in web applications and architecture",
+        "Experience in Rust",
+        "Vast experience in Javascript, Typescript, and node.js",
+        "Experience in relational and non-relational databases",
+        "Experience in functional programming",
+        "Advanced English language proficiency"
+      ],
+      "location": "Remote",
+      "slug": "senior-ethical-hacker-theranos",
+      "expiry_date": "2023-01-20",
+      "id": 3
+    },
+    {
+      "title": "Junior Database Administrator",
+      "role": "Database Administrator",
+      "company": "Yandexxes",
+      "means_of_application": "Send CV to terrasdo@mailinator.com",
+      "description": [
+        "Bachelor’s Degree in Computer Science or related field",
+        "Certified Oracle Database Administrator",
+        "Minimum 2 years supporting Oracle database, SQL, MySQL",
+        "Over 3 years’ experience with responsibility for application development and database administration in software development, implementation, and customization",
+        "Knowledge of CARE2000 Hospital Information Management System will be added Advantage",
+        "Front end development experience of functional IT languages that include but not limited to: HTML5, Css3, Jade, Less, Node, Maven JavaScript, PHP, Magento, JSON, Angular JS, Type Script, Java, JavaFX, Spring, Hibernate, SQL and JAXRS",
+        "Develop applications written in PHP, JavaScript, Angular JS or Java."
+      ],
+      "location": "Remote",
+      "slug": "junior-db-admin-yandexxes",
+      "date_created": "2022-12-24",
+      "expiry_date": "2022-12-31",
+      "id": 4
+    },
+    {
+      "title": "Intermediate Blockchain developer",
+      "description": [
+        "Excited to learn and develop blockchain technology",
+        "Possess production experience with a compiled language (C++, Go, or Rust)",
+        "Experienced with compiler construction and architecture, and security engineering on large-scale systems is a plus"
+      ],
+      "role": "Blockchain Developer",
+      "company": "Yoposos",
+      "means_of_application": "Google form",
+      "location": "Kutus, Kerugoya",
+      "slug": "intermediate-blockchain-developer",
+      "expiry_date": "2023-01-07",
+      "id": 5
+    },
+    {
+      "title": "Devops Engineer",
+      "role": "Devops Engineer",
+      "company": "Testeka",
+      "means_of_application": "CV drop",
+      "description": [
+        "A Bachelor’s degree in Computer Science, Information Technology or related field",
+        "Minimum 2 years’ experience in IT systems development within a large highly digitized organization designing, implementing and managing mission critical systems, with at least 2 of those years within software testin",
+        "Experience in Core Banking Software Design and Development preferably T24 will be an added advantage",
+        "Hands on experience in DevOps is required",
+        "Experience in writing, executing and monitoring automated test suites using a variety of technologies such as Cucumber, Concordion, Selenium, Appium, Robotium, SoapUI, Jmeter",
+        "Certification and experience implementing best practice frameworks e.g. ITIL, PRINCE",
+        "Hands on experience in software development with major languages Java, Kotlin, C++, C# and practical experience using relation RDBMS e.g. Oracle and MS SQL etc",
+        "Strong understanding of SOA lifecycle, Integration patterns and standard methodologies",
+        "Knowledge of Linux/Unix commands and SQL will be required",
+        "Understanding of industry standard formats and protocols (JMS, SOAP, XML/XPath/XQuery, REST and JSON)",
+        "Good analytical and problem-solving skills",
+        "A good knowledge of the systems and processes within Financial Services industry",
+        "Issue/bug tracking tools e.g. TestRail, JIRA",
+        "Use of continuous integration tools e.g. Gitlab CI/Jenkins",
+        "Testing Automation"
+      ],
+      "location": "Remote",
+      "slug": "devops-engineer",
+      "date_created": "2022-12-24",
+      "expiry_date": "2023-01-07",
+      "id": 6
+    }
+  ]
+}
